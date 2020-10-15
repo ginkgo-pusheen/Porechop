@@ -137,7 +137,7 @@ ADAPTERS = [Adapter('SQK-NSK007',
             Adapter('pacbio_universal_pcr_common',
                     start_sequence=('pacbio_univ_pcr_seq', 'GCAGTCGAACATGTAGCTGACTCAGGTCAC')),
 
-            Adapter('pacbio_universal_pcr_common_rev', start_sequence=('pacbio_univ_pcr_seq_rev', 'tggatcacttgtgcaagcatcacatcgtag'))
+            Adapter('pacbio_universal_pcr_common_rev', start_sequence=('pacbio_univ_pcr_seq_rev', 'tggatcacttgtgcaagcatcacatcgtag')),
 
             Adapter('pacbio_std', start_sequence=('pacbio_std_seq',
                                       'TCCTCCTCCTCCGTTGTTGTTGTTGAGAGAGAGAAGGCTGGGCAGGCTATGCACCCTGGTCCAGGTCAAAAGCTGCGGAA'
